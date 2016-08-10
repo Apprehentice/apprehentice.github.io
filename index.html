@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="pageHeading">Home</h1>
+  <p>
+    Hey, it's me, Apprehentice! I created this blog so that I'd have a place to
+    store my thoughts. Maybe you can learn from them or maybe you'll just get bored
+    and find something else to do. Either way, I appreciate you stopping by.
+  </p>
+  <h1>Recent Posts</h1>
+  <ul class="postList">
+    {% for post in site.posts limit: 10 %}
+      <li>
+        <span class="postMeta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h2>
+          <a class="postLink" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <p>
+          {{ post.content | truncate: 500 }}
+        </p>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rssSubscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+</div>
