@@ -13,6 +13,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://apprehentice.github.io" # the base hostname & protocol for your site
 twitter_username: foxtrot200
 github_username:  apprehentice
+timezone: America/Los_Angeles
+future: true
 
 # Plugins
 gems: [jekyll-paginate]
