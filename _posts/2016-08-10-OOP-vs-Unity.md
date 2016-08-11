@@ -8,7 +8,7 @@ categories: programming unity3d
 Lately I've found myself fretting over programming design patterns while working with Unity3D. Despite wanting to actually finish what I've started, I've found myself rethinking and refactoring in an effort to find a neat way to modularize my game's components.
 
 #### There's a problem, though. ####
-The further I get into this, the more I realize that I'm wasting my time. My goal needs to be fixed. My goal is to make a game. So, where do I stand? I stand in a freshly dug hole.
+The further I get into this, the more I realize that I'm wasting my time. My goal needs to be fixed. My goal is to make a game. So, where do I stand? I stand in a freshly dug hole. I spent a lot of time trying to figure out how to do things right, but I should have been focusing on getting it done.
 
 This project means a lot to me. I love a good story-- the kind that drags you in[^mother], tears your heart into pieces[^mother3], and let's you think that everything is okay[^mother2] before reminding you that shit happened[^mother3]. I want to provide that experience to somebody if I have to do it alone.
 
