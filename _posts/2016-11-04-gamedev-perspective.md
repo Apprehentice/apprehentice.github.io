@@ -26,7 +26,7 @@ After a while, my code was a series of semi-independent systems resembling
 large, unmanageable heaps... but at least they were independent heaps.
 
 The heaps I'd produced had plugs and sockets thrown about, just waiting to be
-adapted to Behaviour Machine's blackboard. It probably could have hooked it all
+adapted to Behaviour Machine's blackboard. I probably could have hooked it all
 up, too, except that I ran into one fatal question: How do I save my data for
 when I inevitably need to close and relaunch my game?
 
@@ -59,7 +59,7 @@ The ORK Framework appears to be feature-rich, including all of the features I wa
 It supports parties, dialogues, menus, stats, battles (turn-based and active), but
 yields to the developer when necessary. At first glance, it appears to rub
 against Unity's workflow, but in reality, it's mostly just filling the gaps. When I
-first stumbled onto ORK, I thought the $100/seat price-tag was a bit steep, but the
+first stumbled upon ORK, I thought the $100/seat price-tag was a bit steep, but the
 limited version seems to have all the features necessary for a good prototype.
 
 I'll stick to ORK for now, learning how it works and building on its existing tools.
