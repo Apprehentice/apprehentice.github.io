@@ -56,7 +56,7 @@ framework, or I could take the advice of better devs than myself and use
 somebody else's engine. So far, I'm liking the ORK Framework.
 
 The ORK Framework appears to be feature-rich, including all of the features I want.
-It supports parties, dialogues, menus, stats, battles (turn-based and active), but
+It supports parties, menus, stats, battles (turn-based and active), but
 yields to the developer when necessary. At first glance, it appears to rub
 against Unity's workflow, but in reality, it's mostly just filling the gaps. When I
 first stumbled upon ORK, I thought the $100/seat price-tag was a bit steep, but the
