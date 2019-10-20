@@ -10,18 +10,23 @@ title: Apprehentice's Blog
 email: apprehentice@gmail.com
 description: "An alternative stream of consciousness from Apprehentice"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://apprehentice.github.io" # the base hostname & protocol for your site
+url: "http://www.appr.pro" # the base hostname & protocol for your site
 twitter_username: foxtrot200
 github_username:  apprehentice
 timezone: America/Los_Angeles
 future: true
 
 # Plugins
-gems: [jekyll-paginate]
+plugins:
+  - jekyll-paginate-v2
+
+plugins_dir:
+  - jekyll-paginate-v2
 
 # Build settings
 markdown: kramdown
 
 # Pagination
-paginate: 10
-paginate_path: "/posts/:num/"
+pagination:
+  permalink: '/posts/:num/'
+  title: ':title - Page :num'

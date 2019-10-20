@@ -41,7 +41,9 @@
           transform: translateX(-1em);
 
           box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
-          background-color: rgba(33, 150, 243, 1);
+          //background-color: rgba(33, 150, 243, 1);
+
+          background: linear-gradient(135deg, rgba(255, 0, 255, 0.65) 0%, rgba(0, 0, 0, 0.65) 49%, rgba(0, 0, 0, 0.65) 51%, rgba(0, 255, 0, 0.65) 100%);
 
           a
           {
@@ -60,6 +62,7 @@
             &:hover
             {
               background-color: rgba(255, 255, 255, 0.1);
+              backdrop-filter: blur(5);
             }
           }
         }
@@ -67,10 +70,19 @@
         .siteTitle
         {
           min-width: 100%;
-          box-shadow: inset 0px -1px 0px 0px rgba(0, 0, 0, 1);
           margin-bottom: 0.25em;
 
           font-size: 2.5em;
+
+          &::after
+          {
+            display: block;
+            height: 1px;
+
+            content: ' ';
+
+            background: linear-gradient(90deg, rgba(255,0,255,1) 0%, rgba(0,0,0,1) 49%, rgba(0,0,0,1) 51%, rgba(0,255,0,1) 100%)
+          }
 
           a
           {
@@ -92,7 +104,7 @@
         justify-content: space-around;
 
         box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
-        background-color: rgba(33, 150, 243, 1);
+        background: linear-gradient(135deg, rgba(255, 0, 255, 0.65) 0%, rgba(0, 0, 0, 0.65) 49%, rgba(0, 0, 0, 0.65) 51%, rgba(0, 255, 0, 0.65) 100%);
         padding: 0em 0.75em 0em 0.75em;
 
         a
@@ -129,7 +141,7 @@
 
           &:hover
           {
-            background-color: rgba(0, 0, 0, 0.05);
+            background-color: rgba(255, 255, 255, 0.05);
           }
 
           .postLink
@@ -191,8 +203,8 @@
 
     .pageWrapper
     {
-      background-color: rgba(255, 255, 255, 1);
-      color: rgba(0, 0, 0, 0.75);
+      background-color: rgba(50, 50, 50, 1);
+      color: rgba(255, 255, 255, 0.65);
     }
   }
 }
