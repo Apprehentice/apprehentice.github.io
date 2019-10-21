@@ -7,4 +7,6 @@ gem 'jekyll-paginate-v2', github: 'sverrirs/jekyll-paginate-v2'
 gem 'tzinfo'
 gem 'tzinfo-data'
 
+gem 'jekyll-feed'
+
 # gem "rails"

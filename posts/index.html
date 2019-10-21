@@ -1,6 +1,8 @@
 ---
 layout: "default"
 title: "Post Index"
+pagination:
+  enabled: true
 ---
 
 <h1 class="pageHeading">Posts</h1>
@@ -22,7 +24,7 @@ title: "Post Index"
     <a href="{{ paginator.previous_page_path }}">&lt; Previous Page</a>
   {% endif %}
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">&lt; Next Page</a>
+    <a href="{{ paginator.next_page_path }}">Next Page &gt;</a>
   {% endif %}
 </nav>
 

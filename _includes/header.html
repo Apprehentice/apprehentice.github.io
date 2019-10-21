@@ -5,8 +5,11 @@
     <a href="https://www.github.com/{{ site.github_username }}">Projects</a>
     {% for page in site.pages %}
       {% if page.title %}
-        <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% if page.navbar == true %}
+          <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% endif %}
       {% endif %}
     {% endfor %}
+    <a href="/posts/">Post Index</a>
   </nav>
 </header>

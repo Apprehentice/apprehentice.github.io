@@ -62,7 +62,6 @@
             &:hover
             {
               background-color: rgba(255, 255, 255, 0.1);
-              backdrop-filter: blur(5);
             }
           }
         }
@@ -153,15 +152,10 @@
 
       .post
       {
-        blockquote, twitterwidget
+        blockquote, .twitterwidget
         {
           box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
           padding: 0.5em 0.5em 0.5em 0.5em;
-        }
-
-        [title]
-        {
-          cursor: help;
         }
 
         .postHeader
@@ -205,6 +199,37 @@
     {
       background-color: rgba(50, 50, 50, 1);
       color: rgba(255, 255, 255, 0.65);
+
+      main, .siteFooter
+      {
+        [title]
+        {
+          cursor: help !important;
+        }
+
+        a
+        {
+          &:link
+          {
+            color: rgb(255, 255, 255);
+          }
+
+          &:hover
+          {
+            background-color: rgba(255, 255, 255, 0.1);
+          }
+
+          &:active
+          {
+            border: 1px rgba(255, 255, 255, 0.5) dotted;
+          }
+
+          &:visited
+          {
+            color: rgb(200, 200, 200);
+          }
+        }
+      }
     }
   }
 }

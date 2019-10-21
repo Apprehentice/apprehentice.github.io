@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+navbar: true
 ---
 
 This blog is where I go to express my thoughts and ideas to the world. Perhaps my experience could be useful to somebody. Either way, it's probably good to get it out there, if only so you can see my point of view.
