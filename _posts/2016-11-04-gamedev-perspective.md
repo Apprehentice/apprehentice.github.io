@@ -10,6 +10,8 @@ categories: programming unity3d gamedev
 >Engine development isn’t game development, so you don’t need to, but never let
 >that stop you from experimenting." - Garry Newman on making your own game engine
 
+<!--more-->
+
 ## Rock Bottom ##
 {: title="or close to it..."}
 For the last year or so, I've been obsessing over making an RPG engine for a game

@@ -7,6 +7,8 @@ categories: personal meta
 
 I've been meaning to start a blog for a while now. Twitter and Tumblr are fine, but when you have the ability to effectively dump content onto somebody else's space (i.e. their timeline), you sort of gain some kind of responsibility to post good content. Furthermore, a dedicated blogging platform would allow me to actually think about what I'm posting and say what I need without feeling like I'm saying too much or worrying about whether or not anybody cares. It all just works out.
 
+<!--more-->
+
 I've actually taken to throwing passive comments about myself on Twitter in an effort to see who they might reach. Twitter's analytics tools are pretty good for that, showing you the number of impressions and detail expansions garnered[^1] by any given Tweet, but doing so always leaves me feeling self-conscious. Typically, I'll just mask such things with humor in an attempt to lighten the mood or hide the (obvious) intent behind the tweet.
 
 <figure>
