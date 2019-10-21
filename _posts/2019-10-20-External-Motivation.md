@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "External Motivation"
-date:   2019-10-21 21:20:00 -0800
+date:   2019-10-20 21:20:00 -0800
 categories: gamedev livestream update
 ---
 
