@@ -23,5 +23,5 @@ In any case, let's talk about solutions: I'm going to stream my development sess
 
 So, if watching someone stumble through gamedev sounds like your thing, come find me on [YoUTube](https://www.youtube.com/channel/UCxQbfRS9tm1BgcIN9Nw41kA) or [Mixer](https://mixer.com/Apprehentice). If things go well, I might just set up a regular schedule.
 
-[^funny] Even funnier is the fact that I somehow enjoy coding chat bots more.
-[^duck] [Rubber Duck Debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+[^funny]: Even funnier is the fact that I somehow enjoy coding chat bots more.
+[^duck]: [Rubber Duck Debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
