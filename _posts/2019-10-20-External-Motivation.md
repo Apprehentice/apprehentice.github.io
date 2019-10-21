@@ -11,7 +11,7 @@ Since my last post, I haven't really tried much in way of gamedev. Personally sp
 
 First things first, I _am_ a game developer. I _am_ a game designer. I'm certainly not the best, but I've made and designed games before, even if they weren't very good. Reminding myself of that means I can stow away my low self-confidence and imposter syndrome and replace it with it's less harmful cousin, humility. This allows me to go to others and ask questions, something I wish I could do years ago.
 
-Second, I'm absolutely god-awful at motivating myself to do things, or more specifically _starting_ things, but I've found that if I gamify the process or associate it with something enjoyable, <span title="I blame my ADHD for this one...">it gets easier</a>.
+Second, I'm absolutely god-awful at motivating myself to do things, or more specifically _starting_ things, but I've found that if I gamify the process or associate it with something enjoyable, <span title="I blame my ADHD for this one...">it gets easier</span>.
 
 That brings me to my third concern: retention. I find it difficult to remain focused on a given task. My brain is hard-wired for short-term gratification. I like projects like chat bots and websites because I can iterate quickly. I make a change in the code, build, and run it and I have results almost immediately, usually the results I want. Thinking on it now, though, this may actually be an issue with me focusing too much on the big picture and not the smaller milestones along the way.
 
