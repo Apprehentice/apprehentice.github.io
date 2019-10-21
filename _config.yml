@@ -22,15 +22,18 @@ permalink: /:year/:month/:day/:title.html
 
 # Plugins
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-feed
 
 # Build settings
 markdown: kramdown
 
 # Pagination
-pagination:
-  enabled: true
-  per_page: 10
-  permalink: '/posts/:num/'
-  title: ':title - Page :num'
+# pagination:
+#   enabled: true
+#   per_page: 10
+#   permalink: '/posts/:num/'
+#   title: ':title - Page :num'
+
+paginate: 1
+paginate_path: "/posts/:num/"
