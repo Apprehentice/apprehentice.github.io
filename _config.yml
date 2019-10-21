@@ -35,5 +35,5 @@ markdown: kramdown
 #   permalink: '/posts/:num/'
 #   title: ':title - Page :num'
 
-paginate: 1
+paginate: 10
 paginate_path: "/posts/:num/"
