@@ -13,13 +13,13 @@ Over the last week, I've started using an app called [Habitica](https://habitica
 
 ### Dailies ###
 
-<span title="I'm not a very hairy gentleman.">![My Habitica dailies](/assets/routines-and-2019-10-21-wellness/1.png)</span>
+<span title="I'm not a very hairy gentleman.">![My Habitica dailies]({{ site.url }}/assets/routines-and-2019-10-21-wellness/1.png)</span>
 
 Dailies are things I do daily. Typically, I'll start my day with a shower and move on to my <span title="Nothing too vigorous, just enough to keep me fit enough.">exercises</span>. Previously, I actually had trouble with these. When I wasn't tracking them, I'd skip hygiene some days, especially if I was staying in, because it felt like a waste of time. When you see that streak, though, it puts it into perspective and pushes you to work a little more to keep it up.
 
 ### Habits ###
 
-<span title="I'm not a very good chef, either.">![My Habitica habits](/assets/routines-and-2019-10-21-wellness/2.png)</span>
+<span title="I'm not a very good chef, either.">![My Habitica habits]({{ site.url }}/assets/routines-and-2019-10-21-wellness/2.png)</span>
 
 Habits are more about reinforcing the behaviors you want to see in yourself and discouraging behaviors you want to curb. In this section, I've placed things that I'd like to do more that don't get done as often as I'd like, but don't necessarily happen often enough to fit under Dailies. Among things like good sleep habits, I have chores, hobbies, and skills listed here. I'd like to work more on game development and I find that I'm in a better mood if I sleep well, so I put a focus on that. I'm also working on keeping my living space in check, so I need to make sure I reward myself for that.
 
@@ -29,7 +29,7 @@ To-Dos are pretty self-explanatory; they're list items that I'd like to get done
 
 ### Rewards ###
 
-<span title="The meat and potatoes">![My Habitica rewards](/assets/routines-and-2019-10-21-wellness/3.png)</span>
+<span title="The meat and potatoes">![My Habitica rewards]({{ site.url }}/assets/routines-and-2019-10-21-wellness/3.png)</span>
 
 Habitica makes to-do lists fun by gamifying them. Completing a task gives you coins, experience, and mana which can be used in the app's battles and quests. Engaging in negative habits makes you lost health[^hp]. I don't have anyone to party up with on Habitica and I'm not all that interested in the guilds system, so experience and mana don't do much for me other than give me <span title="Monkey brain still likes to watch the numbers go up, though">shiny numbers to look at</span>.
 

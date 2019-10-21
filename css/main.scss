@@ -96,6 +96,21 @@
         }
       }
 
+      .postContent
+      {
+        img
+        {
+          display: block;
+          align-self: center;
+
+          max-width: 90%;
+          max-height: 50vh;
+
+          margin-left: auto;
+          margin-right: auto;
+        }
+      }
+
       .paginationNav
       {
         display: flex;
