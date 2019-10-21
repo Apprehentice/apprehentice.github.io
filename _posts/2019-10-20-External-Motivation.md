@@ -21,7 +21,7 @@ In any case, let's talk about solutions: I'm going to stream my development sess
 2. I can chat with people while I work, making the experience a bit more entertaining and more productive[^duck].
 3. It gives the activity more purpose because someone else might enjoy it.
 
-So, if watching someone stumble through gamedev sounds like your thing, come find me on [YoUTube](https://www.youtube.com/channel/UCxQbfRS9tm1BgcIN9Nw41kA) or [Mixer](https://mixer.com/Apprehentice). If things go well, I might just set up a regular schedule.
+So, if watching someone stumble through gamedev sounds like your thing, come find me on [YouTube](https://www.youtube.com/channel/UCxQbfRS9tm1BgcIN9Nw41kA) or [Mixer](https://mixer.com/Apprehentice). If things go well, I might just set up a regular schedule.
 
 [^funny]: Even funnier is the fact that I somehow enjoy coding chat bots more.
 [^duck]: [Rubber Duck Debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
