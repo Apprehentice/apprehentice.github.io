@@ -5,7 +5,7 @@ date:   2019-10-21 8:52:00 -0800
 categories: health fitness
 ---
 
-Over the last week, I've started using an app called [Habitica](https://habitica.com/) as my primary to-do list app. With this app, I can track daily tasks, one-shot to-do tasks, and habits. Under dailies, I've listed all of the things I'd like to do in a day (basic hygiene tasks, stretching, exercising) and under habits, I've listed things that I'd like to work on.
+Over the last couple of weeks, I've started using an app called [Habitica](https://habitica.com/) as my primary to-do list app. With this app, I can track daily tasks, one-shot to-do tasks, and habits. Under dailies, I've listed all of the things I'd like to do in a day (basic hygiene tasks, stretching, exercising) and under habits, I've listed things that I'd like to work on.
 
 <!--more-->
 
@@ -39,7 +39,7 @@ The coins go beyond the usual RPG-style rewards they give you. In Habitica, you 
 
 So, how does this all relate to wellness? Well, as I mentioned before, I have trouble doing things that are good for me sometimes, but in my quest for physical fitness, I've found that I'm really good at doing the right thing as long as I have some form of accountability. In the case of physical fitness, I keep myself accountable by tracking everything in [MyFitnessPal](https://www.myfitnesspal.com/). When I can see the numbers, it gives the process perspective. Habitica is my fitness tracker for good lifestyle choices, but it only works if you have the discipline to honestly track and log _everything_. It's important to remember that lying to yourself won't help you.
 
-I think I'll keep using Habitica for the foreseeable future. It's helped me a lot over the past week and I like using it. I've started getting out of bed earlier, I exercise more, I'm more motivated to do <span title="like write blog posts">the things I need to do</span>, and I'm more confident because of it all; I'm doing good for myself and I'm damn proud of it and that confidence spills over into my day-to-day life.
+I think I'll keep using Habitica for the foreseeable future. It's helped me a lot over the past couple of weeks and I like using it. I've started getting out of bed earlier, I exercise more, I'm more motivated to do <span title="like write blog posts">the things I need to do</span>, and I'm more confident because of it all; I'm doing good for myself and I'm damn proud of it and that confidence spills over into my day-to-day life.
 
 Maybe your mind is just like mine and you need someone or something to keep you accountable for everything or to keep track of what you need to do in a fun and engaging way. I recommend buying a journal, at least. You need somewhere to put your tasks, thoughts, and schedule at the end of the day. You sleep easier knowing that everything is accounted for.
 
