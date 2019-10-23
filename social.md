@@ -11,7 +11,7 @@ So, you'd like to get in touch? Great! I have many online presences! Here are a 
 
 **YouTube**: [Apprehentice](https://www.youtube.com/channel/UCxQbfRS9tm1BgcIN9Nw41kA)
 
-**Mixer**: [Apprehentice](https://mixer.com/Apprehentice)
+**Mixer**: [Appr](https://mixer.com/Appr)
 
 **Discord**: [Apprehentice#1796](https://discord.gg/DnE4JWF)
 
