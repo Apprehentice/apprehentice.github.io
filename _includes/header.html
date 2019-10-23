@@ -1,5 +1,8 @@
 <header class="siteHeader">
-  <h1 class="siteTitle"><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
+  <div class="titleContainer">
+    <h1 class="siteTitle"><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
+    <h1 class="liveTitle"><a href="{{ site.liveurl }}">🔴 Live now!</a></h1>
+  </div>
   <nav class="siteNav">
     <a href="/">Home</a>
     <a href="https://www.github.com/{{ site.github_username }}">Projects</a>
@@ -12,4 +15,25 @@
     {% endfor %}
     <a href="/posts/">Post Index</a>
   </nav>
+  <script src="https://apis.google.com/js/api.js"></script>
+  <script>
+    window.addEventListener('DOMContentLoaded', (e) => {
+      var req = new XMLHttpRequest();
+      req.onreadystatechange = (ev) => {
+        if (req.readyState == 4 && req.status == 200)
+        {
+          var res = JSON.parse(req.responseText);
+
+          if (typeof res == undefined) { return; }
+          if (!res.hasOwnProperty("items"))  { return; }
+          if (res.items.length == 0) { return; }
+          
+          document.querySelector(".liveTitle").style.display = "block";
+        }
+      };
+
+      req.open("GET", "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCxQbfRS9tm1BgcIN9Nw41kA&type=video&eventType=live&key=AIzaSyCzs0BcvHw2LA-Y_ftrUUd80n54k7V7-cs");
+      req.send();
+    });
+  </script>
 </header>

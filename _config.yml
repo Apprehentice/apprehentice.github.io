@@ -11,6 +11,7 @@ email: apprehentice@gmail.com
 description: "An alternative stream of consciousness from Apprehentice"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.appr.pro" # the base hostname & protocol for your site
+liveurl: "https://www.youtube.com/channel/UCxQbfRS9tm1BgcIN9Nw41kA/live"
 twitter_username: foxtrot200
 github_username:  apprehentice
 timezone: America/Los_Angeles
