@@ -39,5 +39,5 @@ I like that I can iterate quickly and that my hands rarely leave the keyboard. T
 
 I think I'm sticking with Jekyll for a while.
 
-[^markdown]: https://daringfireball.net/projects/markdown/
+[^markdown]: [https://daringfireball.net/projects/markdown/]
 [^pandoc]: I've actually taken to writing my own [build scripts](https://github.com/Apprehentice/pdbuild) for markdown documents to convert them to PDFs.
