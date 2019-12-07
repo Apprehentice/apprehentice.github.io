@@ -11,7 +11,7 @@ Due to the personal nature of content likely to be sent through this system, I f
 ## Logging ##
 Messages sent through this module are not logged, but SlickVegas will log events related to your DMs with him. That's not part of the module, it's just how he works. That means he will record the time he received your message, your typing indicators, reactions, and the like, **but he will _not_ save the content of your messages**. Your message contents are something I do not wish to store on my hard disk.
 
-Although SlickVegas isn't logging anything, Discord is, so don't share anything your wouldn't share in court.
+Although SlickVegas isn't logging anything, Discord is, so don't share anything you wouldn't share in court.
 
 ## The Rules ##
 1. The poster must be able to read messages in the target channel<span title="1b. SlickVegas must have permission to post in the target channel">.</span>
