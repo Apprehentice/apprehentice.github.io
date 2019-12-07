@@ -14,13 +14,13 @@ Messages sent through this module are not logged, but SlickVegas will log events
 Although SlickVegas isn't logging anything, Discord is, so don't share anything your wouldn't share in court.
 
 ## The Rules ##
-1. The poster must be able to read messages in the target channel
+1. The poster must be able to read messages in the target channel<span title="1b. SlickVegas must have permission to post in the target channel">.</span>
 2. Angle brackets will be removed from messages to prevent mentions
 3. Messages sent before your cooldown runs out will be ignored
 
 ## How it works ##
 1. Send a message to SlickVegas starting with <span title="ghost">👻</span> followed by the target channel's Discord snowflake ID and your message
-2. If your message is valid, you have permission to post in the target channel, and you don't have a cooldown on that channel, your message will be relayed
+2. If your message is valid, you have permission to view the target channel, and you don't have a cooldown on that channel, your message will be relayed
 3. SlickVegas will confirm whether or not your message was sent
 
 ## Moderation ##
