@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: appr.pro
-Token: 6e52b2bf9f4369db9763f941102f1e41079adc127f75696c83060e3e72388696
