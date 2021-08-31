@@ -1,0 +1,15 @@
+<div class="navContainer">
+    <h1 class="siteTitle">{{ site.title }}</h1>
+    <nav class="siteNav">
+        <a href="/">Home</a>
+        {% for page in site.pages %}
+            {% if page.title %}
+            {% if page.navbar == true %}
+                <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            {% endif %}
+            {% endif %}
+        {% endfor %}
+        <a class="navIcon" href="https://github.com/Apprehentice"><i class="fab fa-github"></i></a>
+        <a class="navIcon" href="https://twitch.com/Apprehentice"><i class="fab fa-twitch"></i></a>
+    </nav>
+</div>

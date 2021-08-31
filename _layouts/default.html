@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+    {% include head.html %}
+    <body>
+        <div id="background">
+            <div class="skyscape"></div>
+            <div class="grid">
+                <div class="h-gridlines">
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                </div>
+                <div class="v-gridlines">
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                    <div class="gridline"></div>
+                </div>
+            </div>
+        </div>
+        
+        {% include header.html %}
+        <div id="page">
+            <main>
+                {% if page.toc %}
+                    <nav>
+                        {% for section_hash in page.toc %}
+                            {% for section in section_hash %}
+                                <a href="#{{ section[1] }}">{{ section[0] }}</a>
+                            {% endfor %}
+                        {% endfor %}
+                    </nav>
+                {% endif %}
+                {% if page.notitle != true %}
+                    <h1>{{ page.title }}</h1>
+                {% endif %}
+                {{ content }}
+            </main>
+            {% include footer.html %}
+        </div>
+    </body>
+</html>
