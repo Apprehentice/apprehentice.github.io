@@ -35,7 +35,7 @@ No sound
 
 The Black Mesa Research Facility Automatic Diagnostic and Announcement System. This voice pronounces your text word-by-word.
 
-Visit [https://half-life-vox.com/#vox_login](https://half-life-vox.com/#vox_login) to test out a sentence before sending it to !say, but remember to remove underscores before sending it.
+Visit [https://half-life-vox.com/](https://half-life-vox.com/) to test out a sentence before sending it to !say, but remember to remove underscores before sending it.
 
 ### sounds ###
 
