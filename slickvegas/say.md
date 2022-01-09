@@ -81,7 +81,7 @@ Available sounds are:
 * toilet <audio src="/sounds/say/toilet.wav"></audio>
 * trumpet <audio src="/sounds/say/trumpet.wav"></audio>
 * whistledown <audio src="/sounds/say/whistledown.wav"></audio>
-* whisthleup <audio src="/sounds/say/whisthleup.wav"></audio>
+* whistleup <audio src="/sounds/say/whistleup.wav"></audio>
 
 ## Commands ##
 
