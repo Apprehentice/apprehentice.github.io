@@ -43,45 +43,47 @@ Uses keywords to embed sounds into the phrase. Text in this voice will not be di
 
 Available sounds are:
 
-* bewoowoowoo <audio src="/sounds/say/bewoowoowoo.wav" controls></audio>
-* clothflap <audio src="/sounds/say/clothflap.wav" controls></audio>
-* explosion <audio src="/sounds/say/explosion.wav" controls></audio>
-* fart1 <audio src="/sounds/say/fart1.wav" controls></audio>
-* fart10 <audio src="/sounds/say/fart10.wav" controls></audio>
-* fart11 <audio src="/sounds/say/fart11.wav" controls></audio>
-* fart2 <audio src="/sounds/say/fart2.wav" controls></audio>
-* fart3 <audio src="/sounds/say/fart3.wav" controls></audio>
-* fart4 <audio src="/sounds/say/fart4.wav" controls></audio>
-* fart5 <audio src="/sounds/say/fart5.wav" controls></audio>
-* fart6 <audio src="/sounds/say/fart6.wav" controls></audio>
-* fart7 <audio src="/sounds/say/fart7.wav" controls></audio>
-* fart8 <audio src="/sounds/say/fart8.wav" controls></audio>
-* fart9 <audio src="/sounds/say/fart9.wav" controls></audio>
-* headknock <audio src="/sounds/say/headknock.wav" controls></audio>
-* meow1 <audio src="/sounds/say/meow1.wav" controls></audio>
-* meow2 <audio src="/sounds/say/meow2.wav" controls></audio>
-* meow3 <audio src="/sounds/say/meow3.wav" controls></audio>
-* meow4 <audio src="/sounds/say/meow4.wav" controls></audio>
-* oof <audio src="/sounds/say/oof.wav" controls></audio>
-* quack <audio src="/sounds/say/quack.wav" controls></audio>
-* sirenwhistle <audio src="/sounds/say/sirenwhistle.wav" controls></audio>
-* smallfart1 <audio src="/sounds/say/smallfart1.wav" controls></audio>
-* smallfart10 <audio src="/sounds/say/smallfart10.wav" controls></audio>
-* smallfart11 <audio src="/sounds/say/smallfart11.wav" controls></audio>
-* smallfart12 <audio src="/sounds/say/smallfart12.wav" controls></audio>
-* smallfart13 <audio src="/sounds/say/smallfart13.wav" controls></audio>
-* smallfart2 <audio src="/sounds/say/smallfart2.wav" controls></audio>
-* smallfart3 <audio src="/sounds/say/smallfart3.wav" controls></audio>
-* smallfart4 <audio src="/sounds/say/smallfart4.wav" controls></audio>
-* smallfart5 <audio src="/sounds/say/smallfart5.wav" controls></audio>
-* smallfart6 <audio src="/sounds/say/smallfart6.wav" controls></audio>
-* smallfart7 <audio src="/sounds/say/smallfart7.wav" controls></audio>
-* smallfart8 <audio src="/sounds/say/smallfart8.wav" controls></audio>
-* smallfart9 <audio src="/sounds/say/smallfart9.wav" controls></audio>
-* toilet <audio src="/sounds/say/toilet.wav" controls></audio>
-* trumpet <audio src="/sounds/say/trumpet.wav" controls></audio>
-* whistledown <audio src="/sounds/say/whistledown.wav" controls></audio>
-* whistleup <audio src="/sounds/say/whistleup.wav" controls></audio>
+| Sound Name | Preview |
+| -----------|------------------------------------------------------------ |
+| bewoowoowoo | <audio src="/sounds/say/bewoowoowoo.wav" controls></audio> |
+| clothflap | <audio src="/sounds/say/clothflap.wav" controls></audio> |
+| explosion | <audio src="/sounds/say/explosion.wav" controls></audio> |
+| fart1 | <audio src="/sounds/say/fart1.wav" controls></audio> |
+| fart10 | <audio src="/sounds/say/fart10.wav" controls></audio> |
+| fart11 | <audio src="/sounds/say/fart11.wav" controls></audio> |
+| fart2 | <audio src="/sounds/say/fart2.wav" controls></audio> |
+| fart3 | <audio src="/sounds/say/fart3.wav" controls></audio> |
+| fart4 | <audio src="/sounds/say/fart4.wav" controls></audio> |
+| fart5 | <audio src="/sounds/say/fart5.wav" controls></audio> |
+| fart6 | <audio src="/sounds/say/fart6.wav" controls></audio> |
+| fart7 | <audio src="/sounds/say/fart7.wav" controls></audio> |
+| fart8 | <audio src="/sounds/say/fart8.wav" controls></audio> |
+| fart9 | <audio src="/sounds/say/fart9.wav" controls></audio> |
+| headknock | <audio src="/sounds/say/headknock.wav" controls></audio> |
+| meow1 | <audio src="/sounds/say/meow1.wav" controls></audio> |
+| meow2 | <audio src="/sounds/say/meow2.wav" controls></audio> |
+| meow3 | <audio src="/sounds/say/meow3.wav" controls></audio> |
+| meow4 | <audio src="/sounds/say/meow4.wav" controls></audio> |
+| oof | <audio src="/sounds/say/oof.wav" controls></audio> |
+| quack | <audio src="/sounds/say/quack.wav" controls></audio> |
+| sirenwhistle | <audio src="/sounds/say/sirenwhistle.wav" controls></audio> |
+| smallfart1 | <audio src="/sounds/say/smallfart1.wav" controls></audio> |
+| smallfart10 | <audio src="/sounds/say/smallfart10.wav" controls></audio> |
+| smallfart11 | <audio src="/sounds/say/smallfart11.wav" controls></audio> |
+| smallfart12 | <audio src="/sounds/say/smallfart12.wav" controls></audio> |
+| smallfart13 | <audio src="/sounds/say/smallfart13.wav" controls></audio> |
+| smallfart2 | <audio src="/sounds/say/smallfart2.wav" controls></audio> |
+| smallfart3 | <audio src="/sounds/say/smallfart3.wav" controls></audio> |
+| smallfart4 | <audio src="/sounds/say/smallfart4.wav" controls></audio> |
+| smallfart5 | <audio src="/sounds/say/smallfart5.wav" controls></audio> |
+| smallfart6 | <audio src="/sounds/say/smallfart6.wav" controls></audio> |
+| smallfart7 | <audio src="/sounds/say/smallfart7.wav" controls></audio> |
+| smallfart8 | <audio src="/sounds/say/smallfart8.wav" controls></audio> |
+| smallfart9 | <audio src="/sounds/say/smallfart9.wav" controls></audio> |
+| toilet | <audio src="/sounds/say/toilet.wav" controls></audio> |
+| trumpet | <audio src="/sounds/say/trumpet.wav" controls></audio> |
+| whistledown | <audio src="/sounds/say/whistledown.wav" controls></audio> |
+| whistleup | <audio src="/sounds/say/whistleup.wav" controls></audio> |
 
 ## Commands ##
 
