@@ -340,3 +340,13 @@ Sends a test message
 Flips a coin
 
 <hr />
+
+## roll ##
+
+**Aliases**: roll dice
+
+**Usage**: !roll &lt;expression&gt;
+
+Roll some dice! Supports simple arithmetic and keep. (Ex. `!roll 1d20` `!roll 1d8+3` `!roll 4d6k3`)
+
+<hr />
