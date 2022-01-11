@@ -152,6 +152,21 @@ Toggles the wave effect for the text.
 
 Toggles the shake effect for the text.
 
+### Dancing ###
+
+**Usage**: [dancing]
+
+Toggles dancing letters
+
+> That's amusing, but also impossible to read
+> - TASAgent
+
+> This pleases me, it is money well spent
+> - HechoInMexico
+
+> Esto me complace, fue dinero bien gastado
+> - ProductoDeMexico
+
 ### Rate ###
 
 **Usage**: [rate &lt;value&gt;]
