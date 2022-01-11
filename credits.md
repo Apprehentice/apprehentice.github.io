@@ -22,7 +22,7 @@ Creative Commons Attribution 3.0<br />
 
 ## Graphics ##
 
-None (yet)
+[ARG! Dancing Alphabet](https://www.artiestick.com/credits.htm) by ArtieStick
 
 ## Software ##
 
