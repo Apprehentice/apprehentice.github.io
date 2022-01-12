@@ -158,20 +158,27 @@ Toggles the shake effect for the text.
 
 Toggles dancing letters
 
-<div style="display: flex;flex-direction: row; justify-content: space-around; width: 100%; margin: 0; padding: 0;">
+<div title="Apprehentice is a genius — Abraham Lincoln, probably" style="display: flex;flex-direction: row; justify-content: space-around; width: 100%; margin: 0; padding: 0;">
+<blockquote>
+That's amusing, but also impossible to read<br />
+— TASAgent
+</blockquote>
 
-> That's amusing, but also impossible to read
-> - TASAgent
+<blockquote>
+This pleases me, it is money well spent<br />
+— HechoInMexico
+</blockquote>
 
-> This pleases me, it is money well spent
-> - HechoInMexico
 
-> Esto me complace, fue dinero bien gastado
-> - ProductoDeMexico
+<blockquote>
+Esto me complace, fue dinero bien gastado<br />
+— ProductoDeMexico
+</blockquote>
 
-> Why are you asking me about this?
-> - PrototypeFate
-
+<blockquote>
+Why are you asking me about this?<br />
+— PrototypeFate
+</blockquote>
 </div>
 
 ### Rate ###
