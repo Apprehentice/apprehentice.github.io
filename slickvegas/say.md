@@ -158,6 +158,8 @@ Toggles the shake effect for the text.
 
 Toggles dancing letters
 
+<div style="display: flex;flex-direction: row; justify-content: space-around; width: 100%; margin: 0; padding: 0;">
+
 > That's amusing, but also impossible to read
 > - TASAgent
 
@@ -166,6 +168,11 @@ Toggles dancing letters
 
 > Esto me complace, fue dinero bien gastado
 > - ProductoDeMexico
+
+> Why are you asking me about this?
+> - PrototypeFate
+
+</div>
 
 ### Rate ###
 
