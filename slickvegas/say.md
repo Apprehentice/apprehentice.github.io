@@ -185,6 +185,10 @@ Why are you asking me about this?<br />
 </blockquote>
 </div>
 
+### Grow ###
+
+Toggles the grow effect. Text and images will start small, shrink out, and then grow back in, creating a sort of bouncing wave effect as they appear.
+
 ### Rate ###
 
 **Usage**: [rate &lt;value&gt;]
