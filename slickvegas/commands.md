@@ -1,7 +1,4 @@
----
-title: SlickVegas Commands
----
-
+# Commands #
 ## say ##
 
 **Requires Level**: User
@@ -17,83 +14,43 @@ Send a silly text-to-speech message on screen. See [here](/slickvegas/say) for m
 
 <hr />
 
-## set say voice ##
+## set say prefix ##
 
-**Aliases**: voice 
+**Aliases**: prefix 
 
-**Usage**: !set say voice &lt;voice&gt; 
+**Usage**: !set say prefix &lt;prefix&gt; 
 
-Set the default voice that will be used for the 'say' command
-
-<hr />
-
-## set say pitch ##
-
-**Aliases**: pitch 
-
-**Usage**: !set say pitch &lt;pitch&gt; 
-
-Set the default pitch that will be used for the 'say' command
+Set the text that will be prefixed before the content in the 'say' command
 
 <hr />
 
-## set say rate ##
+## clear say prefix ##
 
-**Aliases**: rate 
+**Aliases**: prefix 
 
-**Usage**: !set say rate &lt;rate&gt; 
+**Usage**: !clear say prefix 
 
-Set the default rate that will be used for the 'say' command
-
-<hr />
-
-## set say tempo ##
-
-**Aliases**: tempo 
-
-**Usage**: !set say tempo &lt;tempo&gt; 
-
-Set the default tempo that will be used for the 'say' command
+Set the text that will be prefixed before the content in the 'say' command
 
 <hr />
 
-## get say voice ##
+## get say prefix ##
 
-**Aliases**: voice 
+**Aliases**: prefix 
 
-**Usage**: !get say voice 
+**Usage**: !get say prefix 
 
-Retrieve the default voice that will be used for the 'say' command
-
-<hr />
-
-## get say pitch ##
-
-**Aliases**: pitch 
-
-**Usage**: !get say pitch 
-
-Retrieve the default pitch that will be used for the 'say' command
+Retrieve the prefix that will be used for the 'say' command
 
 <hr />
 
-## get say rate ##
+## roll ##
 
-**Aliases**: rate 
+**Aliases**: roll dice 
 
-**Usage**: !get say rate 
+**Usage**: !roll &lt;expression&gt; 
 
-Retrieve the default rate that will be used for the 'say' command
-
-<hr />
-
-## get say tempo ##
-
-**Aliases**: tempo 
-
-**Usage**: !get say tempo 
-
-Retrieve the default tempo that will be used for the 'say' command
+Roll some dice! Supports simple arithmetic and keep (k)
 
 <hr />
 
@@ -338,15 +295,5 @@ Sends a test message
 **Usage**: !coin 
 
 Flips a coin
-
-<hr />
-
-## roll ##
-
-**Aliases**: roll dice
-
-**Usage**: !roll &lt;expression&gt;
-
-Roll some dice! Supports simple arithmetic and keep. (Ex. `!roll 1d20` `!roll 1d8+3` `!roll 4d6k3`)
 
 <hr />
