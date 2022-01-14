@@ -30,7 +30,7 @@ Set the text that will be prefixed before the content in the 'say' command
 
 **Usage**: !clear say prefix 
 
-Set the text that will be prefixed before the content in the 'say' command
+Clear the text that will be prefixed before the content in the 'say' command
 
 <hr />
 
