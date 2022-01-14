@@ -37,6 +37,10 @@ The Black Mesa Research Facility Automatic Diagnostic and Announcement System. T
 
 Visit [https://half-life-vox.com/](https://half-life-vox.com/) to test out a sentence before sending it to !say, but remember to remove underscores before sending it.
 
+### scratch ###
+
+Record scratches, similar to the voices in the Katamari series. This voice speaks continuously until it runs out of text.
+
 ### sounds ###
 
 Uses keywords to embed sounds into the phrase. Text in this voice will not be displayed on screen.
