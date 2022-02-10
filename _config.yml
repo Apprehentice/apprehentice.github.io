@@ -29,5 +29,5 @@ twitter_username: Apprehentice
 github_username:  Apprehentice
 
 # Build settings
-plugins:
-  - jekyll-feed
+plugins: []
+  #- jekyll-feed
