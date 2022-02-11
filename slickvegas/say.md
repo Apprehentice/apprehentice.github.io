@@ -1,5 +1,6 @@
 ---
 title: Say Command
+layout: default
 toc:
 - Voices: voices
 - Commands: commands

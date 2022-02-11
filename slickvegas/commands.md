@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Commands #
 ## say ##
 
@@ -11,6 +15,18 @@
 **Usage**: !say [input = ...] 
 
 Send a silly text-to-speech message on screen. See [here](/slickvegas/say) for more info.
+
+<hr />
+
+## skip ##
+
+**Requires Level**: Moderator
+
+**Aliases**: skip 
+
+**Usage**: !skip 
+
+Skip the current !say message
 
 <hr />
 
@@ -264,7 +280,7 @@ Give a shoutout to someone
 
 **Usage**: !discord 
 
-Discord link
+Get Discord invite link
 
 <hr />
 
@@ -274,26 +290,46 @@ Discord link
 
 **Usage**: !help 
 
-Web help link
+Get help
 
 <hr />
 
-## test ##
+## commands ##
 
-**Aliases**: test 
+**Aliases**: commands 
 
-**Usage**: !test 
+**Usage**: !commands 
 
-Sends a test message
+Get commands
 
 <hr />
 
-## coin ##
+## website ##
 
-**Aliases**: coin 
+**Aliases**: website 
 
-**Usage**: !coin 
+**Usage**: !website 
 
-Flips a coin
+Get website
+
+<hr />
+
+## credits ##
+
+**Aliases**: credits 
+
+**Usage**: !credits 
+
+Get credits
+
+<hr />
+
+## matrix ##
+
+**Aliases**: matrix 
+
+**Usage**: !matrix 
+
+Get Matrix link
 
 <hr />
