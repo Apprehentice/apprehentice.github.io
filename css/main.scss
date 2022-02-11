@@ -412,6 +412,46 @@ html {
                         animation-fill-mode: forwards;
                     }
                 }
+
+                .info {
+                    outline: 1px white solid;
+                    border-radius: 0.5em;
+                    padding: 0.25em;
+
+                    text-align: center;
+
+                    &:not(.success, .failure, .alert) {
+                        background-color: lighten(black, 15);
+                        color: white;
+                    }
+
+                    &.success {
+                        background-color: lime;
+                        color: black;
+
+                        a {
+                            color: blue;
+                        }
+                    }
+
+                    &.failure {
+                        background-color: red;
+                        color: black;
+
+                        a {
+                            color: blue;
+                        }
+                    }
+
+                    &.alert {
+                        background-color: lighten(yellow, 25);
+                        color: black;
+
+                        a {
+                            color: blue;
+                        }
+                    }
+                }
             }
         }
 
