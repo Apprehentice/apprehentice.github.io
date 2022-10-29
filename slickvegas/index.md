@@ -1,5 +1,6 @@
 ---
 title: SlickVegas
+layout: default
 navbar: true
 ---
 
