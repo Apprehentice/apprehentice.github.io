@@ -374,6 +374,15 @@ html {
 
                 .center {
                     align-self: center;
+                    
+                    &.text {
+                        text-align: center;
+                    }
+                }
+
+                .large {
+                    font-size: x-large;
+                    font-family: $titleFont;
                 }
 
                 img.thumb {
