@@ -20,4 +20,5 @@ For business inquiries, please contact me at [apprehentice@protonmail.ch](appreh
 Twitch: [Apprehentice](https://twitch.tv/apprehentice)<br />
 GitHub: [Apprehentice](https://github.com/apprehentice)<br />
 YouTube: [Foxtrot200](https://www.youtube.com/channel/UCveg-9jS-91AivR4oSRWEmg/)<br />
-YouTube VODs Channel: [Apprehentice](https://www.youtube.com/channel/UCxQbfRS9tm1BgcIN9Nw41kA/)
+YouTube VODs Channel: [Apprehentice](https://www.youtube.com/channel/UCxQbfRS9tm1BgcIN9Nw41kA/)<br />
+Mastodon: [@apprehentice@enchanted.social](https://enchanted.social/@apprehentice)
