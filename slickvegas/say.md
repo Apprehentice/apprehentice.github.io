@@ -46,59 +46,87 @@ Record scratches, similar to the voices in the Katamari series. This voice speak
 
 Uses keywords to embed sounds into the phrase. Text in this voice will not be displayed on screen.
 
+**Previews temporarily unavailable**
+
 Available sounds are:
 
 | Sound Name | Preview |
 | -----------|------------------------------------------------------------ |
-| bewoowoowoo | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/bewoowoowoo.wav" controls></audio> |
-| clothflap | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/clothflap.wav" controls></audio> |
-| explosion | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/explosion.wav" controls></audio> |
-| fart1 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/fart1.wav" controls></audio> |
-| fart10 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/fart10.wav" controls></audio> |
-| fart11 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/fart11.wav" controls></audio> |
-| fart2 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/fart2.wav" controls></audio> |
-| fart3 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/fart3.wav" controls></audio> |
-| fart4 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/fart4.wav" controls></audio> |
-| fart5 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/fart5.wav" controls></audio> |
-| fart6 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/fart6.wav" controls></audio> |
-| fart7 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/fart7.wav" controls></audio> |
-| fart8 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/fart8.wav" controls></audio> |
-| fart9 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/fart9.wav" controls></audio> |
-| headknock | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/headknock.wav" controls></audio> |
-| meow1 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/meow1.wav" controls></audio> |
-| meow2 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/meow2.wav" controls></audio> |
-| meow3 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/meow3.wav" controls></audio> |
-| meow4 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/meow4.wav" controls></audio> |
-| oof | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/oof.wav" controls></audio> |
-| quack | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/quack.wav" controls></audio> |
-| sirenwhistle | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/sirenwhistle.wav" controls></audio> |
-| smallfart1 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/smallfart1.wav" controls></audio> |
-| smallfart10 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/smallfart10.wav" controls></audio> |
-| smallfart11 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/smallfart11.wav" controls></audio> |
-| smallfart12 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/smallfart12.wav" controls></audio> |
-| smallfart13 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/smallfart13.wav" controls></audio> |
-| smallfart2 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/smallfart2.wav" controls></audio> |
-| smallfart3 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/smallfart3.wav" controls></audio> |
-| smallfart4 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/smallfart4.wav" controls></audio> |
-| smallfart5 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/smallfart5.wav" controls></audio> |
-| smallfart6 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/smallfart6.wav" controls></audio> |
-| smallfart7 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/smallfart7.wav" controls></audio> |
-| smallfart8 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/smallfart8.wav" controls></audio> |
-| smallfart9 | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/smallfart9.wav" controls></audio> |
-| toilet | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/toilet.wav" controls></audio> |
-| trumpet | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/trumpet.wav" controls></audio> |
-| whistledown | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/whistledown.wav" controls></audio> |
-| whistleup | <audio src="https://files.clubvt.xyz/public/slickvegas/say/sounds/whistleup.wav" controls></audio> |
+| bewoowoowoo | <audio src="/sounds/bewoowoowoo.wav" controls></audio> |
+| clothflap | <audio src="/sounds/clothflap.wav" controls></audio> |
+| explosion | <audio src="/sounds/explosion.wav" controls></audio> |
+| fart1 | <audio src="/sounds/fart1.wav" controls></audio> |
+| fart10 | <audio src="/sounds/fart10.wav" controls></audio> |
+| fart11 | <audio src="/sounds/fart11.wav" controls></audio> |
+| fart2 | <audio src="/sounds/fart2.wav" controls></audio> |
+| fart3 | <audio src="/sounds/fart3.wav" controls></audio> |
+| fart4 | <audio src="/sounds/fart4.wav" controls></audio> |
+| fart5 | <audio src="/sounds/fart5.wav" controls></audio> |
+| fart6 | <audio src="/sounds/fart6.wav" controls></audio> |
+| fart7 | <audio src="/sounds/fart7.wav" controls></audio> |
+| fart8 | <audio src="/sounds/fart8.wav" controls></audio> |
+| fart9 | <audio src="/sounds/fart9.wav" controls></audio> |
+| headknock | <audio src="/sounds/headknock.wav" controls></audio> |
+| meow1 | <audio src="/sounds/meow1.wav" controls></audio> |
+| meow2 | <audio src="/sounds/meow2.wav" controls></audio> |
+| meow3 | <audio src="/sounds/meow3.wav" controls></audio> |
+| meow4 | <audio src="/sounds/meow4.wav" controls></audio> |
+| oof | <audio src="/sounds/oof.wav" controls></audio> |
+| quack | <audio src="/sounds/quack.wav" controls></audio> |
+| sirenwhistle | <audio src="/sounds/sirenwhistle.wav" controls></audio> |
+| smallfart1 | <audio src="/sounds/smallfart1.wav" controls></audio> |
+| smallfart10 | <audio src="/sounds/smallfart10.wav" controls></audio> |
+| smallfart11 | <audio src="/sounds/smallfart11.wav" controls></audio> |
+| smallfart12 | <audio src="/sounds/smallfart12.wav" controls></audio> |
+| smallfart13 | <audio src="/sounds/smallfart13.wav" controls></audio> |
+| smallfart2 | <audio src="/sounds/smallfart2.wav" controls></audio> |
+| smallfart3 | <audio src="/sounds/smallfart3.wav" controls></audio> |
+| smallfart4 | <audio src="/sounds/smallfart4.wav" controls></audio> |
+| smallfart5 | <audio src="/sounds/smallfart5.wav" controls></audio> |
+| smallfart6 | <audio src="/sounds/smallfart6.wav" controls></audio> |
+| smallfart7 | <audio src="/sounds/smallfart7.wav" controls></audio> |
+| smallfart8 | <audio src="/sounds/smallfart8.wav" controls></audio> |
+| smallfart9 | <audio src="/sounds/smallfart9.wav" controls></audio> |
+| toilet | <audio src="/sounds/toilet.wav" controls></audio> |
+| trumpet | <audio src="/sounds/trumpet.wav" controls></audio> |
+| whistledown | <audio src="/sounds/whistledown.wav" controls></audio> |
+| whistleup | <audio src="/sounds/whistleup.wav" controls></audio> |
 
 ## Commands ##
 
 Commands are executed by wrapping the command and its parameters in square brackets (Ex. `[command param1 param2 ... paramN]`.) Slick will attempt to validate commands before they're processed, but there's a chance it could fail to get to the overlay. If something doesn't work, check your commands and try again.
+
+### Frame ###
+
+**Usage**: [frame &lt;frame name&gt;]
+
+Change the dialogue box in which your message appears. This can be changed in the middle of your message, too. When changed mis-message, the text box contents will be preserved.
+
+To set your default frame, do `!set say frame &lt;frame name&gt;`
+
+Available frames:
+
+* ac (Animal Crossing)
+* stardew (Stardew Valley)
+* king (King of All Cosmos)
+* undertale
 
 ### Color ###
 
 **Usage**: [color &lt;red&gt; &lt;green&gt; &lt;blue&gt;]
 
 Sets the text color. Values are 0-255.
+
+### Font ###
+
+**Usage**: [font &lt;family&gt;]
+
+Change the font to one of pre-approved font families:
+
+* sans-serif
+* comic-sans
+* papyrus
+* stardew-valley
 
 ### Opacity ###
 
@@ -138,6 +166,12 @@ Sets the text size. Possible values are:
 * xxx-large
 
 Use `[size off]` or `[size default]` to reset.
+
+### Clear ###
+
+**Usage**: [clear]
+
+Clears the text box. Useful to avoid scrolling. Pairs well with the pause and frame commands for changing frames mid-message.
 
 ### Rainbow ###
 

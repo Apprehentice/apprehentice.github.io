@@ -124,30 +124,6 @@ $grid-line-shadow: 0px 0px 1px 0px cyan;
     }
 }
 
-@keyframes button-fill {
-    from {
-        box-shadow: inset 0 0 $color-primary-0;
-        //color: #FFF;
-    }
-
-    to {
-        box-shadow: inset 0 -5em $color-primary-0;
-        //color: #000;
-    }
-}
-
-@keyframes button-empty {
-    to {
-        box-shadow: inset 0 0 $color-primary-0;
-        //color: #FFF;
-    }
-
-    from {
-        box-shadow: inset 0 -5em $color-primary-0;
-        //color: #000;
-    }
-}
-
 @keyframes flash-header {
     0% {
         box-shadow: initial;
@@ -420,15 +396,13 @@ html {
 
                     border-right: dotted #555 3px;
 
-                    animation-name: button-empty;
-                    animation-duration: 500ms;
-                    animation-fill-mode: forwards;
+                    box-shadow: inset 0 0 $color-primary-0;
 
                     &:hover, &:focus {
-                        animation-name: button-fill;
-                        animation-duration: 500ms;
-                        animation-fill-mode: forwards;
+                        box-shadow: inset 0 -5em $color-primary-0;
                     }
+
+                    transition: box-shadow 500ms;
                 }
 
                 .info {
@@ -732,15 +706,13 @@ html {
                 border-right: dotted #555 1px;
                 border-bottom: dotted #555 1px;
 
-                animation-name: button-empty;
-                animation-duration: 500ms;
-                animation-fill-mode: forwards;
+                box-shadow: inset 0 0 $color-primary-0;
 
                 &:hover, &:focus {
-                    animation-name: button-fill;
-                    animation-duration: 500ms;
-                    animation-fill-mode: forwards;
+                    box-shadow: inset 0 -5em $color-primary-0;
                 }
+
+                transition: box-shadow 500ms;
 
                 &.navIcon {
                     max-width: 1em;

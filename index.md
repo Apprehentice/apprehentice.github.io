@@ -1,6 +1,5 @@
 ---
 title: Apprehentice
-notitle: false
 layout: default
 notitle: true
 ---
